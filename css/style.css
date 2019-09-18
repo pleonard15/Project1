@@ -1,9 +1,9 @@
-#h1{
+h1{
 	color: red;
 	font-size: 90px;
 	}
 	.small{
 		font-size: 28px;
-#	}
+	}
 body { background-color: #efefe0; background-image: url(images/backgrounds/filmstrip.jpeg); background-repeat: no-repeat;
 }
